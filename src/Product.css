@@ -1,0 +1,25 @@
+.div-divider {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.image-border {
+  border-radius: 15;
+  border: 1px solid #e5e5e5;
+}
+
+.center-text {
+  text-align: center
+}
+
+.button-style {
+  background-color: #01d1b2;
+  color: #fff;
+  font-size: 12px;
+}
+
+.button-style:hover {
+  background-color: #01b298;
+  color: #fff;
+  font-size: 12px;
+}
+
